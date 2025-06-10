@@ -1,13 +1,39 @@
-# React + Vite
+# Movie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek React app built with Vite, TailwindCSS, JSX, and powered by Appwrite — your simple, fast movie search companion.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About
 
-## Expanding the ESLint configuration
+**Movie It** lets you search for movies effortlessly. The app displays a curated list of 20 movies based on your search, providing a clean, responsive UI and smooth experience. Powered by modern frontend tech and Appwrite backend services.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# movie" 
+---
+
+## 🛠️ Tech Stack
+
+- **React** (JSX) — For building the interactive UI
+- **Vite** — Lightning-fast frontend tooling and bundling
+- **TailwindCSS** — Utility-first CSS for rapid styling
+- **Appwrite** — Backend services (database, authentication, APIs)
+- **JavaScript** — Core programming language
+
+---
+
+## 🎯 Features
+
+- Search movies by title or keyword
+- View a list of 20 movies matching your search query
+- Responsive and clean UI using TailwindCSS
+- Powered by Appwrite for backend data and auth
+- Minimal, performant, and scalable codebase
+
+---
+
+## 🛠️ Setup & Installation
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/angerleo001/movie.git
+   cd movie
