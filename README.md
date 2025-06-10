@@ -6,7 +6,7 @@ A sleek React app built with Vite, TailwindCSS, JSX, and powered by Appwrite —
 
 ## 🚀 About
 
-**Movie It** lets you search for movies effortlessly. The app displays a curated list of 20 movies based on your search, providing a clean, responsive UI and smooth experience. Powered by modern frontend tech and Appwrite backend services.
+**Movie** lets you search for movies effortlessly. The app displays a curated list of 20 movies based on your search, providing a clean, responsive UI and smooth experience. Powered by modern frontend tech and Appwrite backend services.
 
 ---
 
@@ -23,7 +23,7 @@ A sleek React app built with Vite, TailwindCSS, JSX, and powered by Appwrite —
 ## 🎯 Features
 
 - Search movies by title or keyword
-- View a list of 20 movies matching your search query
+- View the top 5 most searched movies
 - Responsive and clean UI using TailwindCSS
 - Powered by Appwrite for backend data and auth
 - Minimal, performant, and scalable codebase
