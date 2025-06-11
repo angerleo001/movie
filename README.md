@@ -1,4 +1,4 @@
-# Movie
+# Movie World
 
 A sleek React app built with Vite, TailwindCSS, JSX, and powered by Appwrite — your simple, fast movie search companion.
 
